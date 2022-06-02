@@ -1,11 +1,6 @@
 ## Byte Typing 
 
-<br>
-
-<img
-  src="https://github.com/asfork/asfork/blob/main/images/stat.svg"
-  alt="Steve WakaTime Activity"
-/>
+[![wakatime](https://wakatime.com/badge/user/0e677631-e350-44f0-839e-512c8cc6999f.svg)](https://wakatime.com/@0e677631-e350-44f0-839e-512c8cc6999f)
 
 <br>
 
